@@ -8,7 +8,7 @@ EventFlow is a React event booking app built around the Ticketmaster Discovery A
 
 ![Events dashboard light mode](docs/images/events-dashboard-light.png)
 
-![Events dashboard dark mode](docs/images/events-dashboard-dark.png)
+![Events dashboard dark mode](<img width="1893" height="821" alt="Screenshot 2026-04-30 000551" src="https://github.com/user-attachments/assets/fdd05180-ff10-4b3b-822a-ff4a19c61e9e" />)
 
 ### Event Details
 
@@ -96,4 +96,4 @@ src/
 
 ## Notes
 
-The booking flow is intentionally local and mock-based for the assignment: bookings are saved to local state and `localStorage`. Event data is loaded from Ticketmaster, so a valid `VITE_TICKETMASTER_API_KEY` is required for normal use.
+The booking flow is intentionally local and mock-based, bookings are saved to local state and `localStorage`. Event data is loaded from Ticketmaster, so a valid `VITE_TICKETMASTER_API_KEY` is required for normal use.
