@@ -22,6 +22,10 @@ EventFlow is a React event booking app built around the Ticketmaster Discovery A
 
 ![Bookings page dark mode](docs/images/bookings-dark.png)
 
+### Loading State
+
+![Bookings page dark mode](docs/images/loading.png)
+
 ## Features
 
 - Authentication with persisted local login state
