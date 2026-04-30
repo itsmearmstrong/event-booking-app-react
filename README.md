@@ -100,4 +100,4 @@ src/
 
 ## Notes
 
-The booking flow is intentionally local and mock-based for the assignment: bookings are saved to local state and `localStorage`. Event data is loaded from Ticketmaster, so a valid `VITE_TICKETMASTER_API_KEY` is required for normal use.
+The booking flow is intentionally local and mock-based, bookings are saved to local state and `localStorage`. Event data is loaded from Ticketmaster, so a valid `VITE_TICKETMASTER_API_KEY` is required for normal use.
